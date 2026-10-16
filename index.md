@@ -44,19 +44,19 @@ Three visualization techniques were used:
 
 **1. Dot Density Map**
 
-![Poaching incident dot density map](https://raw.githubusercontent.com/USERNAME/data-science-project/main/images/poaching_dot_density.png)
+(https://github.com/muhanx8-max/data-science-project/main/images/poaching_dot_density.png)
 
 This visualization shows the locations of recorded incidents and illustrates their uneven geographical distribution.
 
 **2. Spatial Histogram Map**
 
-![Poaching incident spatial histogram](https://raw.githubusercontent.com/USERNAME/data-science-project/main/images/poaching_histogram.png)
+(https://github.com/muhanx8-max/data-science-project/main/images/poaching_histogram.png)
 
 The histogram helps identify geographical areas containing relatively high concentrations of recorded incidents.
 
 **3. Voronoi Visualization**
 
-![Poaching incident Voronoi map](https://raw.githubusercontent.com/USERNAME/data-science-project/main/images/poaching_voronoi.png)
+(https://github.com/muhanx8-max/data-science-project/main/images/poaching_voronoi.png)
 
 The Voronoi visualization highlights spatial proximity relationships between the recorded locations.
 
@@ -72,7 +72,7 @@ The available incident records may not represent all poaching events. Spatial cl
 
 ### Project Repository
 
-[View the complete project on GitHub](https://github.com/USERNAME/data-science-project)
+（https://github.com/muhanx8-max/data-science-project)
 
 ---
 
