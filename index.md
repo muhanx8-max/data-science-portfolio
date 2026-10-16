@@ -40,25 +40,27 @@ Three visualization techniques were used:
 2. **Spatial Histogram:** Uses colored grid cells to highlight areas with higher concentrations of recorded incidents.
 3. **Voronoi Tessellation:** Illustrates spatial relationships and proximity between recorded locations.
 
+
 ### Data Visualizations
 
 **1. Dot Density Map**
 
-(https://github.com/muhanx8-max/data-science-project/images/poaching_dot_density.png)
+![Poaching Dot Density Map](https://raw.githubusercontent.com/muhanx8-max/data-science-project/main/images/poaching_dot_density.png)
 
 This visualization shows the locations of recorded incidents and illustrates their uneven geographical distribution.
 
 **2. Spatial Histogram Map**
 
-(https://github.com/muhanx8-max/data-science-project/main/images/poaching_histogram.png)
+![Poaching Histogram Map](https://raw.githubusercontent.com/muhanx8-max/data-science-project/main/images/poaching_histogram.png)
 
 The histogram helps identify geographical areas containing relatively high concentrations of recorded incidents.
 
 **3. Voronoi Visualization**
 
-(https://github.com/muhanx8-max/data-science-project/main/images/poaching_voronoi.png)
+![Poaching Voronoi Map](https://raw.githubusercontent.com/muhanx8-max/data-science-project/main/images/poaching_voronoi.png)
 
 The Voronoi visualization highlights spatial proximity relationships between the recorded locations.
+
 
 ### Key Findings
 
