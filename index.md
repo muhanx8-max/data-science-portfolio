@@ -74,7 +74,9 @@ The available incident records may not represent all poaching events. Spatial cl
 
 ### Project Repository
 
-（https://github.com/muhanx8-max/data-science-project)
+### Project Repository
+
+[View the complete project on GitHub](https://github.com/muhanx8-max/data-science-project)
 
 ---
 
