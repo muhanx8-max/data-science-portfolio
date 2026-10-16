@@ -44,7 +44,7 @@ Three visualization techniques were used:
 
 **1. Dot Density Map**
 
-(https://github.com/muhanx8-max/data-science-project/main/images/poaching_dot_density.png)
+(https://github.com/muhanx8-max/data-science-project/images/poaching_dot_density.png)
 
 This visualization shows the locations of recorded incidents and illustrates their uneven geographical distribution.
 
